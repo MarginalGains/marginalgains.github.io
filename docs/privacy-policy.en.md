@@ -44,6 +44,20 @@ For users in regions where consent is required by applicable law (such as the Eu
 
 You can also limit or reset the use of advertising identifiers through your device settings (e.g., "Delete advertising ID" on Android, "Allow Apps to Request to Track" on iOS).
 
+### Analytics and Crash Reporting
+
+Some of our Apps use Google Analytics for Firebase and Firebase Crashlytics, services provided by Google LLC, to understand how the Apps are used and to improve their stability. In connection with these services, the following information may be automatically collected and transmitted to Google:
+
+- App interaction information (e.g., screen views, session counts, in-app events)
+- Crash logs (e.g., stack traces and the state of the App and device at the time of a crash)
+- Device information (e.g., device model, OS version, language settings)
+- Identifiers assigned to the App installation (e.g., an app-instance ID and a per-installation UUID); these identifiers do not identify you personally
+- Approximate location estimated from a masked (truncated) IP address
+
+This information is used in a statistically processed form for usage analysis and crash diagnosis, and we do not use it to identify individuals. The information is encrypted in transit. For details on how Google handles this information, please refer to:
+
+- Privacy and Security in Firebase: <https://firebase.google.com/support/privacy>
+
 ### Third-Party Networks Accessed Through Our Apps
 
 Some of our Apps assist you in connecting to Wi-Fi networks provided by third parties, including displaying the network's login (captive portal) page. Any information you enter on such a login page is sent directly to the network provider and is not obtained by us. The handling of such information is governed by the privacy policy of the relevant network provider.
@@ -60,11 +74,11 @@ We will not disclose or provide personal information to third parties without th
 - Where we disclose information that cannot identify an individual, such as statistically processed data
 - Where we disclose information to our contractors or business partners, after concluding a confidentiality agreement in advance, within the minimum scope necessary to improve the convenience of our services
 
-As described in "Information Collected in Our Mobile Apps" above, device information collected by third-party advertising SDKs is transmitted directly to the relevant third party (Google) and handled in accordance with its privacy policy.
+As described in "Information Collected in Our Mobile Apps" above, device information collected by third-party advertising, analytics, and crash reporting SDKs is transmitted directly to the relevant third party (Google) and handled in accordance with its privacy policy.
 
 ## International Data Transfers
 
-We are located in Japan, and personal information we collect is processed in Japan. Information collected by third-party services such as Google AdMob may be processed on servers located in various countries in accordance with the privacy policies of those services.
+We are located in Japan, and personal information we collect is processed in Japan. Information collected by third-party services such as Google AdMob, Google Analytics for Firebase, and Firebase Crashlytics may be processed on servers located in various countries in accordance with the privacy policies of those services.
 
 ## Cookies
 
@@ -102,4 +116,4 @@ Marginal Gains, Inc.
 
 For inquiries regarding this Privacy Policy, please contact us through the contact details listed on the store page of the relevant App.
 
-Last updated: June 4, 2026
+Last updated: June 5, 2026
