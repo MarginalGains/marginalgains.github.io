@@ -38,6 +38,19 @@ This information is used by Google for purposes such as ad delivery, ad measurem
 - Google Privacy Policy: <https://policies.google.com/privacy>
 - How Google uses advertising data: <https://policies.google.com/technologies/ads>
 
+### Advertising by Meta Audience Network
+
+Some of our Apps (the Android and iOS versions of "Wi-Fi Connect" and the Android version of "なまえる" (Namaeru)) may display advertisements from Meta Audience Network, an advertising network provided by Meta Platforms, Inc. and its affiliates ("Meta"), through the mediation feature of Google AdMob. In connection with serving advertisements, the Meta Audience Network SDK may automatically collect and transmit to Meta certain information, such as:
+
+- Device identifiers (e.g., Android Advertising ID, Apple IDFA)
+- Device information (e.g., device model, screen size, OS, and mediation platform and SDK versions)
+- Ad performance information (e.g., impressions, clicks, placement, and viewability)
+- Crash logs and other diagnostic data
+
+This information is used by Meta for purposes such as ad delivery and analytics. You can limit or reset the use of advertising identifiers through your device settings described in "Consent to Personalized Advertising" below. For details on how Meta handles this information, please refer to:
+
+- Meta Privacy Policy: <https://www.facebook.com/privacy/policy/>
+
 ### Consent to Personalized Advertising
 
 For users in regions where consent is required by applicable law (such as the European Economic Area, the United Kingdom, and Switzerland), we obtain consent regarding the delivery of personalized advertisements through a consent form provided by Google's User Messaging Platform (UMP) when the App is launched. You can change your choice at any time from the settings or menu within the App (where available).
@@ -74,11 +87,11 @@ We will not disclose or provide personal information to third parties without th
 - Where we disclose information that cannot identify an individual, such as statistically processed data
 - Where we disclose information to our contractors or business partners, after concluding a confidentiality agreement in advance, within the minimum scope necessary to improve the convenience of our services
 
-As described in "Information Collected in Our Mobile Apps" above, device information collected by third-party advertising, analytics, and crash reporting SDKs is transmitted directly to the relevant third party (Google) and handled in accordance with its privacy policy.
+As described in "Information Collected in Our Mobile Apps" above, device information collected by third-party advertising, analytics, and crash reporting SDKs is transmitted directly to the relevant third party (Google or Meta) and handled in accordance with its privacy policy.
 
 ## International Data Transfers
 
-We are located in Japan, and personal information we collect is processed in Japan. Information collected by third-party services such as Google AdMob, Google Analytics for Firebase, and Firebase Crashlytics may be processed on servers located in various countries in accordance with the privacy policies of those services.
+We are located in Japan, and personal information we collect is processed in Japan. Information collected by third-party services such as Google AdMob, Meta Audience Network, Google Analytics for Firebase, and Firebase Crashlytics may be processed on servers located in various countries in accordance with the privacy policies of those services.
 
 ## Cookies
 
